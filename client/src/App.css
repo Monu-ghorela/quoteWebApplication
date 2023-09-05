@@ -1,0 +1,7 @@
+.my-container{
+  max-width: 500px !important;
+}
+input:focus {
+  border-bottom: 2px solid #ab47bc !important;
+  box-shadow: 0 1px 0 0 #ab47bc !important;
+}
